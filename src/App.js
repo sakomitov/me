@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Stoyan Komitov</h1>
         </header>
         <p className="App-intro">
-          This is a test to make sure commiting works.
+          This is a test to make.
         </p>
       </div>
     );
