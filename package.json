@@ -1,6 +1,6 @@
 {
   "name": "me",
-  "homepage" : "http://sakomitov.github.io/me",
+  "homepage": "http://sakomitov.github.io/me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,5 +15,9 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "ajv": "^6.5.0",
+    "gh-pages": "^1.1.0"
   }
 }
